@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "21bc9fb2-7832-7d65-ee9a-886b3d1de01f",
+      "0590d9a7-022f-14db-70bb-9ede505c046c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Structural Geology",
+  "course_description": "Structural geology is the study of processes and products of rock deformation. This course introduces the techniques of structural geology through a survey of the mechanics of rock deformation, a survey of the features and geometries of faults and folds, and techniques of strain analysis. Regional structural geology and tectonics are introduced. Class lectures are supplemented by lab exercises and demonstrations as well as field trips to local outcrops.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.113",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Activity Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
